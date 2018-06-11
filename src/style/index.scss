@@ -1,0 +1,38 @@
+@import '~bootstrap/scss/bootstrap.scss';
+
+div{
+    display:center;
+}
+
+#randomImg{
+    height: 7.2; 
+}
+h1{
+    font-size: 180px;
+}
+h2{
+    font-size: 6rem;
+}
+
+
+.lozenge:after {
+    content: ' \2666';
+    color: red;
+}
+.blackspadesuit:after{
+    content: ' \2660';
+    color: black;
+}
+.shamrock:after {
+    content: ' \2663';
+    color: black;
+}
+.valentine:after{
+    content: ' \2665';
+    color: black;
+}
+
+
+
+
+
